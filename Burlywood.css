@@ -1,15 +1,20 @@
 ﻿body {
-    background-color: lightblue;
+    background-color:burlywood;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    list-style-position: inside;
+    text-align: center;
+    list-style:none;
+   
 }
 ul{
     list-style-position: inside;
     text-align: center;
     list-style:none;
+    font-family:cursive
 
 }
 li::first-letter{
     font-size:x-large;
     font-weight:bold;
-}
-
